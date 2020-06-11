@@ -138,6 +138,7 @@ section.example-projects, section example-banners {
   display: flex;
   justify-content: space-between; }
   .navbar > .logo {
+    padding: 8px;
     font-family: 'Dancing Script', cursive; }
     .navbar > .logo a {
       text-decoration: none;
